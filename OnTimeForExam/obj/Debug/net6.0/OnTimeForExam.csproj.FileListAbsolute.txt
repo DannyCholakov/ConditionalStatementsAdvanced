@@ -1,0 +1,15 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/bin/Debug/net6.0/OnTimeForExam
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/bin/Debug/net6.0/OnTimeForExam.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/bin/Debug/net6.0/OnTimeForExam.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/bin/Debug/net6.0/OnTimeForExam.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/bin/Debug/net6.0/OnTimeForExam.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/obj/Debug/net6.0/OnTimeForExam.csproj.AssemblyReference.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/obj/Debug/net6.0/OnTimeForExam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/obj/Debug/net6.0/OnTimeForExam.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/obj/Debug/net6.0/OnTimeForExam.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/obj/Debug/net6.0/OnTimeForExam.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/obj/Debug/net6.0/OnTimeForExam.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/obj/Debug/net6.0/refint/OnTimeForExam.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/obj/Debug/net6.0/OnTimeForExam.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/obj/Debug/net6.0/OnTimeForExam.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OnTimeForExam/obj/Debug/net6.0/ref/OnTimeForExam.dll

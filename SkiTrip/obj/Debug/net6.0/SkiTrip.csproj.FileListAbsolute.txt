@@ -1,0 +1,15 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/bin/Debug/net6.0/SkiTrip
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/bin/Debug/net6.0/SkiTrip.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/bin/Debug/net6.0/SkiTrip.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/bin/Debug/net6.0/SkiTrip.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/bin/Debug/net6.0/SkiTrip.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/obj/Debug/net6.0/SkiTrip.csproj.AssemblyReference.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/obj/Debug/net6.0/SkiTrip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/obj/Debug/net6.0/SkiTrip.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/obj/Debug/net6.0/SkiTrip.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/obj/Debug/net6.0/SkiTrip.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/obj/Debug/net6.0/SkiTrip.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/obj/Debug/net6.0/refint/SkiTrip.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/obj/Debug/net6.0/SkiTrip.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/obj/Debug/net6.0/SkiTrip.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/SkiTrip/obj/Debug/net6.0/ref/SkiTrip.dll

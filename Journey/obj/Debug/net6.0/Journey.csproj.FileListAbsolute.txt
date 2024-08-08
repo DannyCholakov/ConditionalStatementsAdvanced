@@ -1,0 +1,15 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/bin/Debug/net6.0/Journey
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/bin/Debug/net6.0/Journey.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/bin/Debug/net6.0/Journey.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/bin/Debug/net6.0/Journey.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/bin/Debug/net6.0/Journey.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/obj/Debug/net6.0/Journey.csproj.AssemblyReference.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/obj/Debug/net6.0/Journey.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/obj/Debug/net6.0/Journey.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/obj/Debug/net6.0/Journey.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/obj/Debug/net6.0/Journey.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/obj/Debug/net6.0/Journey.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/obj/Debug/net6.0/refint/Journey.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/obj/Debug/net6.0/Journey.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/obj/Debug/net6.0/Journey.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/Journey/obj/Debug/net6.0/ref/Journey.dll

@@ -1,0 +1,15 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/bin/Debug/net6.0/NewHouse
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/bin/Debug/net6.0/NewHouse.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/bin/Debug/net6.0/NewHouse.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/bin/Debug/net6.0/NewHouse.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/bin/Debug/net6.0/NewHouse.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/obj/Debug/net6.0/NewHouse.csproj.AssemblyReference.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/obj/Debug/net6.0/NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/obj/Debug/net6.0/NewHouse.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/obj/Debug/net6.0/NewHouse.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/obj/Debug/net6.0/NewHouse.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/obj/Debug/net6.0/NewHouse.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/obj/Debug/net6.0/refint/NewHouse.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/obj/Debug/net6.0/NewHouse.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/obj/Debug/net6.0/NewHouse.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/NewHouse/obj/Debug/net6.0/ref/NewHouse.dll

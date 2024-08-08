@@ -1,0 +1,15 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/bin/Debug/net6.0/FishingBoat
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/bin/Debug/net6.0/FishingBoat.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/bin/Debug/net6.0/FishingBoat.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/bin/Debug/net6.0/FishingBoat.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/bin/Debug/net6.0/FishingBoat.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/obj/Debug/net6.0/FishingBoat.csproj.AssemblyReference.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/obj/Debug/net6.0/FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/obj/Debug/net6.0/FishingBoat.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/obj/Debug/net6.0/FishingBoat.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/obj/Debug/net6.0/FishingBoat.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/obj/Debug/net6.0/FishingBoat.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/obj/Debug/net6.0/refint/FishingBoat.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/obj/Debug/net6.0/FishingBoat.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/obj/Debug/net6.0/FishingBoat.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/FishingBoat/obj/Debug/net6.0/ref/FishingBoat.dll

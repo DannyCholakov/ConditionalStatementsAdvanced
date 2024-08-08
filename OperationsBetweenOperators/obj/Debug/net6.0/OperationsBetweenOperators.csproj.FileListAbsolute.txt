@@ -1,0 +1,15 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/bin/Debug/net6.0/OperationsBetweenOperators
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/bin/Debug/net6.0/OperationsBetweenOperators.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/bin/Debug/net6.0/OperationsBetweenOperators.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/bin/Debug/net6.0/OperationsBetweenOperators.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/bin/Debug/net6.0/OperationsBetweenOperators.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/obj/Debug/net6.0/OperationsBetweenOperators.csproj.AssemblyReference.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/obj/Debug/net6.0/OperationsBetweenOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/obj/Debug/net6.0/OperationsBetweenOperators.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/obj/Debug/net6.0/OperationsBetweenOperators.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/obj/Debug/net6.0/OperationsBetweenOperators.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/obj/Debug/net6.0/OperationsBetweenOperators.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/obj/Debug/net6.0/refint/OperationsBetweenOperators.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/obj/Debug/net6.0/OperationsBetweenOperators.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/obj/Debug/net6.0/OperationsBetweenOperators.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/Conditional Statements Advanced/OperationsBetweenOperators/obj/Debug/net6.0/ref/OperationsBetweenOperators.dll
